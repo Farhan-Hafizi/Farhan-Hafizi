@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Farhan Hafizi from Malaysia.
+- 👀 I’m interested in data science analytics especially in marketing.
+- 🌱 I’m currently learning coding by using Python and Deep Learning.
+- 📫 You can reach me through my Linkedin www.linkedin.com/in/farhan-hafizi-1363872ab
+- ⚡ Fun fact: I have a habit of coding while listening to K-Pop music.
